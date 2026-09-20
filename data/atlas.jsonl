@@ -11,6 +11,8 @@
 {"id": "contrast-as-control", "title": "Contrast as Control", "url": "https://standardgalactic.github.io/diatribe/contrast-as-control.pdf", "cat": "vault", "hop": 0, "source": "static"}
 {"id": "readability-is-freedom", "title": "Readability Is Freedom", "url": "https://github.com/peterlodri-sec/8b-is/blob/main/raw_research/readability-is-freedom-absorbed.md", "cat": "vault", "hop": 0, "source": "static"}
 {"id": "the-pop-protocol", "title": "The POP Protocol", "url": "https://github.com/8b-is/training-pipeline", "cat": "vault", "hop": 0, "source": "static"}
+{"id": "admissible-degradation", "title": "Admissible Degradation", "url": "https://standardgalactic.github.io/research-projects/admissibility-lab/admissible-degradation.pdf", "cat": "vault", "hop": 0, "source": "static"}
+{"id": "permag", "title": "permag", "url": "https://github.com/standardgalactic/permag", "cat": "vault", "hop": 0, "source": "static"}
 {"id": "lissajous-curve", "title": "Lissajous curve", "url": "https://en.wikipedia.org/wiki/Lissajous_curve", "cat": "logic", "hop": 0, "source": "static"}
 {"id": "nand-gate", "title": "NAND gate", "url": "https://en.wikipedia.org/wiki/NAND_gate", "cat": "logic", "hop": 0, "source": "static"}
 {"id": "boolean-algebra", "title": "Boolean algebra", "url": "https://en.wikipedia.org/wiki/Boolean_algebra", "cat": "logic", "hop": 0, "source": "static"}
@@ -45,5 +47,3 @@
 {"id": "leekhotline-·-embrace-ai", "title": "leekHotline · embrace ai", "url": "https://github.com/leekHotline", "cat": "fleet", "hop": 0, "source": "static"}
 {"id": "main-page", "title": "Main Page", "url": "https://en.wikipedia.org/wiki/Main_Page", "cat": "cosmos", "hop": 1, "source": "wiki"}
 {"id": "margaret-hamilton-(software-engineer)", "title": "Margaret Hamilton (software engineer)", "url": "https://en.wikipedia.org/wiki/Margaret_Hamilton_%28software_engineer%29", "cat": "cosmos", "hop": 1, "source": "wiki"}
-{"id": "admissible-degradation", "title": "Admissible Degradation", "url": "https://standardgalactic.github.io/research-projects/admissibility-lab/admissible-degradation.pdf", "cat": "vault", "hop": 0, "source": "static"}
-{"id": "permag", "title": "permag", "url": "https://github.com/standardgalactic/permag", "cat": "vault", "hop": 0, "source": "static"}
